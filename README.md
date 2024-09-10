@@ -1,6 +1,5 @@
-<h2>💫 About Me:</h2>
+<h1 align="center"> 👋Hello my name is Jason</h2>
 
- <h4> Hello ! </h4>
 👋 I'm a French developer </br>
 👀 looking for a new challenge </br>
 🚆 mobile throughout France </br>
@@ -8,19 +7,15 @@
 🔭 I’m currently working on three personnals projects </br> </br>
 
 
+<h2> Skills </h2>
+
+<h4>💻 Front-end</h4>
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,react,nextjs&theme=light)](https://skillicons.dev)
+
+<h4>💻 Back-end</h4>
+
+[![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,mysql&theme=light)](https://skillicons.dev)
+
+
 [![](https://visitcount.itsvg.in/api?id=Jason&label=Profile%20Views&color=1&icon=1&pretty=false)](https://visitcount.itsvg.in)
-
-<!--
-**Djayzon59/Djayzon59** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
