@@ -5,9 +5,10 @@
 👀 looking for a new challenge </br>
 🚆 mobile throughout France </br>
 ⚛️ specialized in Java/Spring Boot </br>
-🔭 I’m currently working on three personnals projects </br>
+🔭 I’m currently working on three personnals projects </br> </br>
 
 
+[![](https://visitcount.itsvg.in/api?id=Jason&label=Profile%20Views&color=1&icon=1&pretty=false)](https://visitcount.itsvg.in)
 
 <!--
 **Djayzon59/Djayzon59** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
