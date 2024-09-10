@@ -1,4 +1,17 @@
-## Hi there 👋
+💫 About Me:
+
+Hello!
+👋 I'm a French developer
+
+👀 looking for a new challenge 
+
+🚆 mobile throughout France
+
+⚛️ specialized in Java/Spring Boot
+
+🔭 I’m currently working on three personnals projects
+
+
 
 <!--
 **Djayzon59/Djayzon59** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
