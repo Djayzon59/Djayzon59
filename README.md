@@ -1,15 +1,11 @@
-💫 About Me:
+<h2>💫 About Me:</h2>
 
-Hello!
-👋 I'm a French developer
-
-👀 looking for a new challenge 
-
-🚆 mobile throughout France
-
-⚛️ specialized in Java/Spring Boot
-
-🔭 I’m currently working on three personnals projects
+ <h4> Hello ! </h4>
+👋 I'm a French developer </br>
+👀 looking for a new challenge </br>
+🚆 mobile throughout France </br>
+⚛️ specialized in Java/Spring Boot </br>
+🔭 I’m currently working on three personnals projects </br>
 
 
 
