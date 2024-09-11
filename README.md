@@ -5,7 +5,7 @@
 👀 looking for a new challenge </br>
 🚆 mobile throughout France </br>
 ⚛️ specialized in Java/Spring Boot </br>
-🔭 I’m currently working on three personnals projects </br> 
+🔭 I’m currently working on a SAAS project </br> 
 
 
 <h2> Skills </h2>
